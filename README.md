@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Kayvon-M
-- 👀 I’m interested in making websites
+- 👀 I’m interested in learning new things
 - 🌱 I’m currently learning C#
 - 💞️ I’m looking to collaborate on challenging projects
 - 📫 How to reach me softshoes67@gmail.com
